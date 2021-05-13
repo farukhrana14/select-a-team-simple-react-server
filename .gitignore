@@ -1,2 +1,4 @@
 .env
 node_modules/
+# heroku authorizations:create -s "read" -S -d "heroku-ci-badge"
+# b311311c-0c46-496f-9d20-f03120af9354
